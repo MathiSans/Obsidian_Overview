@@ -1,0 +1,20 @@
+# Obsidian settings folder (per-user configuration)
+.obsidian/
+
+# System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Backup or sync-specific files (optional, depending on usage)
+# Obsidian config (exclude all except snippets if needed)
+.obsidian/
+!.obsidian/core-plugins.json
+
+# Layout and appearance (personal)
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/workspace.json
+
+# OS/system files
+.DS_Store
+Thumbs.db
